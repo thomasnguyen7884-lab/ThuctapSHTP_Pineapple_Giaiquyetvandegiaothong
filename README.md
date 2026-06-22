@@ -1,36 +1,5 @@
-# 🌍 STEM CHALLENGE: TÔI VẼ TƯƠNG LAI XÃ HỘI THÔNG MINH 2045
+HỒ SƠ STARTUP: KÝ SỰ KIẾN TẠO XÃ HỘI THÔNG MINH 2045
 
-Chào mừng các đội ngũ sáng lập trẻ đến với không gian lưu trữ và quản lý dự án Capstone cuối khóa! Đây là nơi nhóm của bạn sẽ số hóa ý tưởng, xây dựng giải pháp công nghệ và chuẩn bị "hồ sơ gọi vốn" cho ngày hội **Demo Day (Future Tech Showcase)**.
-
-<img width="1536" height="1024" alt="shtp-stem-challenge" src="https://github.com/user-attachments/assets/eea2a8a9-afba-4b03-9983-fc2c058ee552" />
-
-
----
-
-## 🛠️ HƯỚNG DẪN DÀNH CHO HỌC SINH (ĐỌC KỸ TRƯỚC KHI LÀM)
-
-### 1. Cách khởi tạo Dự án của Nhóm từ Template này
-* **Bước 1:** Đại diện Nhóm (Trưởng nhóm/CEO) nhấn vào nút xanh **"Use this template"** ở góc trên bên phải ➔ Chọn **"Create a new repository"**.
-* **Bước 2:** Đặt tên Repository theo cú pháp: `Lop_TenNhom_TenDuAn` (Ví dụ: `STEM.01_GreenBrain_PhanLoaiRac`). Chọn chế độ **Public**.
-* **Bước 3:** Vào mục **Settings** ➔ **Collaborators** ➔ Nhấn **Add people** để mời 4 thành viên còn lại và Thầy/Cô Mentor vào cùng quản lý Repo.
-
-### 2. Lộ trình nộp bài theo từng tuần (Trong 3 tuần)
-* ⏰ **Hạn chót:** 23h59 Chủ Nhật hàng tuần.
-* 📦 **Cách nộp bài:** Các nhóm tải (Upload) file ảnh/tài liệu vào đúng thư mục được chỉ định và cập nhật nội dung tương ứng vào mục **[PHẦN II]** ở phía dưới.
-
-| Tuần | Công việc cần làm | Thư mục cần cập nhật trên GitHub |
-| :--- | :--- | :--- |
-| **Tuần 1 (14/6)** | **Brainstorm ý tưởng & Vẽ sơ đồ Tư duy hệ thống**<br>- Phân chia 5 vai trò trong nhóm.<br>- Chọn 1 vấn đề lớn của xã hội (Ô nhiễm, Giao thông, Y tế...).<br>- Vẽ sơ đồ nguyên nhân - hậu quả. | 📁 Upload ảnh sơ đồ vào thư mục: `/research_system`<br>📝 Điền thông tin thành viên ở mục **1** và **2** phía dưới. |
-| **Tuần 2 (21/6)** | **Thiết kế mô hình Startup & Giải pháp công nghệ**<br>- Đặt tên Startup, Slogan, xác định khách hàng.<br>- Đề xuất giải pháp kết hợp các công nghệ (AI, Robot, IoT...).<br>- Tự chấm điểm ý tưởng theo thang điểm 50. | 📝 Cập nhật chi tiết giải pháp và công nghệ tại mục **3** và **4** phía dưới. |
-| **Tuần 3 (28/6)** | **Vẽ phối cảnh Xã hội thông minh & Hoàn thiện Slide**<br>- Hoàn thiện Bản vẽ phối cảnh Xã hội thông minh 2045.<br>- Tổng hợp phần "Tri thức mới khám phá".<br>- Chuẩn bị Slide thuyết trình 15 phút cho Demo Day. | 📁 Upload bản vẽ vào thư mục: `/design_visuals`<br>📁 Upload slide báo cáo (PDF) vào: `/pitch_deck`<br>📝 Hoàn thiện toàn bộ các mục còn lại phía dưới. |
-
-*Note: Sau khi nhóm của bạn đã hiểu rõ quy trình, hãy XÓA TOÀN BỘ **PHẦN I** này đi và chỉ để lại **PHẦN II** dưới đây làm trang chủ cho dự án của nhóm.*
-
----
-
-# [PHẦN II] HỒ SƠ STARTUP: KÝ SỰ KIẾN TẠO XÃ HỘI THÔNG MINH 2045
-
-*Học sinh bắt đầu điền nội dung dự án của nhóm mình từ đây. Thay thế các phần trong dấu `[...]` bằng thông tin thực tế của nhóm.*
 
 ## 🚀 1. TÊN STARTUP: [Điền tên Startup của nhóm tại đây]
 * **Khẩu hiệu (Slogan):** "[Điền câu Slogan truyền cảm hứng của dự án]"
