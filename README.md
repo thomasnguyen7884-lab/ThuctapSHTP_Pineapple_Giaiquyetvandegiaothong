@@ -21,7 +21,7 @@ HỒ SƠ STARTUP: KÝ SỰ KIẾN TẠO XÃ HỘI THÔNG MINH 2045
   * *Hậu quả trực tiếp:* Kẹt xe kéo dài, gây stress và giảm chất lượng sống, người dân ngày càng thiếu ý thức khi pháp luật chưa thể quản lý giao thông chặt chẽ.
 
 *Sơ đồ tư duy hệ thống chi tiết của nhóm (Đính kèm file ảnh từ thư mục research_system):*
-![Sơ đồ hệ thống](research_system/[ten_file_anh_cua_nhom].png)
+![Sơ đồ hệ thống](research_system/mindmapSHTP.png)
 
 ---
 
