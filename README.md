@@ -1,24 +1,24 @@
 HỒ SƠ STARTUP: KÝ SỰ KIẾN TẠO XÃ HỘI THÔNG MINH 2045
 
 
-## 🚀 1. TÊN STARTUP: [Điền tên Startup của nhóm tại đây]
-* **Khẩu hiệu (Slogan):** "[Điền câu Slogan truyền cảm hứng của dự án]"
-* **Lớp:** [Ví dụ: STEM.01.26]
+## 🚀 1. TÊN STARTUP: Pineapple
+* **Khẩu hiệu (Slogan):** "Keep traffic crisp, keep the city fresh"
+* **Lớp:** Thực tập SHTP
 
 ### 👥 Đội ngũ sáng lập (5 Vai trò - 5 Sức mạnh)
-1. **[Họ và tên HS 1]** - **CEO (Nhà chiến lược):** [Ví dụ: Điều phối nhóm, nghiên cứu thị trường và đưa ra quyết định cuối cùng.]
-2. **[Họ và tên HS 2]** - **Nhà nghiên cứu xã hội:** [Ví dụ: Thu thập số liệu, tìm hiểu nỗi đau (Pain points) và nhu cầu của người dân.]
-3. **[Họ và tên HS 3]** - **Kỹ sư công nghệ:** [Ví dụ: Đề xuất và chịu trách nhiệm về kiến trúc công nghệ (AI, Robot, Drone, IoT...).]
-4. **[Họ và tên HS 4]** - **Nhà thiết kế trải nghiệm:** [Ví dụ: Phụ trách vẽ bản vẽ phối cảnh, thiết kế giao diện ứng dụng và slide.]
-5. **[Họ và tên HS 5]** - **Nhà đầu tư:** [Ví dụ: Đánh giá tính khả thi, chi phí - lợi ích và xây dựng mô hình kinh doanh.]
+1. **Nguyễn Hoàng Anh Tú** - **CEO (Nhà chiến lược):** Điều phối nhóm, nghiên cứu tình hình thị trường.
+2. **Nguyễn Chí Tường** - **Nhà nghiên cứu xã hội:**  Thu thập dữ liệu thực tế, phân tích tình hình xã hội và nhu cầu của nhà nước, người dân đối với giải pháp của dự án.
+3. **Nguyễn Nghiệp Thịnh** - **Kỹ sư công nghệ:** Đề xuất, nghiên cứu, phát triển mô hình công nghệ của dự án.	
+4. **Lương Nguyễn Anh Thư** - **Nhà thiết kế trải nghiệm:**  Phụ trách vẽ bản vẽ phối cảnh và làm slide.
+5. **Nguyễn Thái Bình** - **Nhà đầu tư:** Đánh giá tính khả thi, chi toán phí - lợi ích và xây dựng mô hình kinh doanh.
 
 ---
 
 ## ⚠️ 2. ĐẶT VẤN ĐỀ & TƯ DUY HỆ THỐNG (SYSTEM THINKING)
-* **Vấn đề nhức nhối nhóm chọn giải quyết:** [Ví dụ: Vấn nạn ùn tắc giao thông và ô nhiễm khí thải tại các đô thị lớn].
+* **Vấn đề nhức nhối nhóm chọn giải quyết:** Vấn nạn ùn tắc giao thông vào những lúc cao điểm, tình trạng thiếu nhận thức về việc chạy quá tốc độ của người dân ở những nơi có giới hạn tốc độ.
 * **Bản phân tích nguyên nhân - hậu quả:**
-  * *Nguyên nhân:* [Ý thức người dân chưa cao / Thiếu hệ thống đèn tín hiệu thông minh / Mật độ xe tăng nhanh...]
-  * *Hậu quả trực tiếp:* [Kẹt xe kéo dài / Ô nhiễm không khí / Gây stress và giảm chất lượng sống...]
+  * *Nguyên nhân:* Cơ sở hạ tầng chưa phát triển, nhiều người dân còn thiếu ý thức trong quá trình tham gia giao thông.
+  * *Hậu quả trực tiếp:* Kẹt xe kéo dài, gây stress và giảm chất lượng sống, người dân ngày càng thiếu ý thức khi pháp luật chưa thể quản lý giao thông chặt chẽ.
 
 *Sơ đồ tư duy hệ thống chi tiết của nhóm (Đính kèm file ảnh từ thư mục research_system):*
 ![Sơ đồ hệ thống](research_system/[ten_file_anh_cua_nhom].png)
@@ -26,19 +26,20 @@ HỒ SƠ STARTUP: KÝ SỰ KIẾN TẠO XÃ HỘI THÔNG MINH 2045
 ---
 
 ## 💡 3. THIẾT KẾ STARTUP & MÔ HÌNH KINH DOANH
-* **Khách hàng mục tiêu:** [Ví dụ: Ban quản lý đô thị thành phố, các trường học, hoặc trực tiếp người dân sinh sống tại chung cư].
-* **Giải pháp của Startup:** [Mô tả ngắn gọn cách sản phẩm/dịch vụ của bạn hoạt động để giải quyết vấn đề trên].
+* **Khách hàng mục tiêu:** Nhà nước
+* **Giải pháp của Startup:** Tạo tri thức mới (Reflection)
 * **Tổ hợp Công nghệ cốt lõi ứng dụng (Chọn các công nghệ phù hợp):**
-  * [ ] **AI Vision (Thị giác máy tính):** [Mô tả cách ứng dụng, ví dụ: Nhận diện mật độ xe qua camera]
-  * [ ] **Robot/UAV & Actuator (Cơ cấu chấp hành):** [Ví dụ: Cánh tay robot tự động phân loại rác]
-  * [ ] **IoT & Cloud (Internet vạn vật):** [Ví dụ: Gửi dữ liệu cảm biến thời gian thực lên máy chủ]
-  * [ ] **Green Energy (Năng lượng tái tạo):** [Ví dụ: Hệ thống sử dụng hoàn toàn pin mặt trời]
-  * [ ] **Big Data & Analytics:** [Ví dụ: Phân tích xu hướng di chuyển để dự báo kẹt xe]
+  * [ ] **AI và Machine Learning:** Nhận diện, phân loại và đếm phương tiện; phân tích lưu lượng giao thông; dự đoán nguy cơ tai nạn và phát hiện vi phạm.
+  * [ ] **Computer vision:** Xử lý hình ảnh từ camera giao thông, theo dõi phương tiện theo thời gian thực, nhận diện biển số xe và phát hiện ùn tắc.
+  * [ ] **IoT:** Kết nối camera, cảm biến và trung tâm điều hành; truyền dữ liệu giao thông theo thời gian thực.
+  * [ ] **Cloud Computing:** Lưu trữ và quản lý dữ liệu giao thông, hỗ trợ huấn luyện và triển khai các mô hình AI.
+  * [ ] **Big Data:** Phân tích dữ liệu giao thông quy mô lớn, dự báo ùn tắc và hỗ trợ quy hoạch giao thông.
+  * [ ] **Hệ thống điều khiển thông minh:** Điều chỉnh đèn tín hiệu theo lưu lượng xe, đồng bộ các nút giao thông và ưu tiên xe khẩn cấp.
 
 ---
 
 ## 🎨 4. BẢN VẼ PHỐI CẢNH XÃ HỘI THÔNG MINH 2045
-*Mô tả ý tưởng bức tranh tương lai khi giải pháp của Startup được áp dụng rộng rãi vào cuộc sống.*
+*Khi hệ thống camera AI được triển khai rộng rãi, giao thông sẽ được giám sát và điều phối theo thời gian thực, giúp giảm ùn tắc và tai nạn giao thông. Các hành vi vi phạm được phát hiện, xử lý tự động, góp phần nâng cao ý thức của người dân. Dữ liệu giao thông được phân tích liên tục để hỗ trợ quản lý và quy hoạch đô thị hiệu quả hơn. Qua đó, thành phố trở nên an toàn, hiện đại, ít ô nhiễm và hướng tới mô hình đô thị thông minh.*
 
 *Hình ảnh bản vẽ phối cảnh của nhóm (Đính kèm file ảnh từ thư mục design_visuals):*
 ![Bản vẽ phối cảnh 2045](design_visuals/[ten_file_anh_ban_ve].png)
@@ -47,9 +48,9 @@ HỒ SƠ STARTUP: KÝ SỰ KIẾN TẠO XÃ HỘI THÔNG MINH 2045
 
 ## 🧠 5. TẠO TRI THỨC MỚI (REFLECTION)
 Sau 3 tuần đồng hành và kiến tạo dự án, đội ngũ sáng lập của chúng tôi đã đúc kết được:
-* **Chúng tôi phát hiện rằng:** [Một sự thật ngầm hiểu hoặc một góc nhìn mới về vấn đề mà trước đây nhóm chưa từng nghĩ tới].
-* **Chúng tôi học được rằng:** [Bài học sâu sắc nhất về sự kết hợp giữa Công nghệ và Con người / Kỹ năng làm việc nhóm].
-* **Ý tưởng mới/Điểm cải tiến độc đáo nhất của dự án là:** [Điểm khác biệt giúp Startup của bạn vượt trội hơn các giải pháp đang có trên thị trường].
+* **Chúng tôi phát hiện rằng:** Ùn tắc giao thông không chỉ do số lượng phương tiện lớn mà còn do việc điều phối giao thông chưa linh hoạt và ý thức chấp hành luật giao thông của một bộ phận người dân còn hạn chế.
+* **Chúng tôi học được rằng:** Công nghệ chỉ thực sự hiệu quả khi phục vụ nhu cầu của con người. Bên cạnh đó, sự phối hợp, lắng nghe và phân chia công việc hợp lý trong nhóm là yếu tố quan trọng để hoàn thành dự án.
+* **Ý tưởng mới/Điểm cải tiến độc đáo nhất của dự án là:** Dự án tích hợp AI để điều chỉnh đèn giao thông theo thời gian thực, dự đoán nguy cơ tai nạn và quản lý lịch sử vi phạm giao thông của người dân. Hệ thống không chỉ xử lý sự cố mà còn chủ động phòng ngừa, giúp giao thông an toàn và hiệu quả hơn.
 
 ---
 
