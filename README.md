@@ -20,7 +20,7 @@ HỒ SƠ STARTUP: KÝ SỰ KIẾN TẠO XÃ HỘI THÔNG MINH 2045
   * *Nguyên nhân:* Cơ sở hạ tầng chưa phát triển, nhiều người dân còn thiếu ý thức trong quá trình tham gia giao thông.
   * *Hậu quả trực tiếp:* Kẹt xe kéo dài, gây stress và giảm chất lượng sống, người dân ngày càng thiếu ý thức khi pháp luật chưa thể quản lý giao thông chặt chẽ.
 
-*Sơ đồ tư duy hệ thống chi tiết của nhóm (Đính kèm file ảnh từ thư mục research_system):*
+*Sơ đồ tư duy hệ thống chi tiết của nhóm:*
 ![Sơ đồ hệ thống](research_system/mindmapSHTP.png)
 
 ---
